@@ -22,7 +22,7 @@ export default function Home() {
             para="I’ve worked in UX for the better part of a decade. From now on, I plan to rei…"
             profilesrc="https://s3-alpha-sig.figma.com/img/d809/8d9d/f42d73f4b2b7835b4c918c4edcf10f64?Expires=1719792000&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=Xm~czUCGXNhA5DmsA7BWWdUXbbeGMXyZhyG6fZQt~CB-Dl7xN~kKXNwTf3T1M4GSrvqbIoEzT~jx8Uo0iDIP6Fkfn931pbtomfKbNw8FRSIevTQNlcpMcbyNF-KoHpfgE0rGUYn4CJ-jB2X3UeMywP7Cx8ZO5KM2NfHwJqRWtU8mm34DcfvxvlOdqluIwV-dkWDrx39C6wA2--oeJ7tAvD1QwUDLhfbqvw57e2grM3DfuQYqlzpWa6-WtRcojyduB6HJ~RDlvfXQ4K3TZtKS6DmBy4PL0PBZvwOot0XtgDNa9vEnJdxruqFi5VOkdB0Q5ISw3LgVSv4xHnZl4a7PpQ__"
             username="Sarthak Kamra"
-            views="1.4K"
+            views="2.5K"
           />
           <Card
             bgsrc="https://s3-alpha-sig.figma.com/img/250a/24fe/c8e32137d06a7bb3fd57b6dfb4e07bfe?Expires=1719792000&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=p7vv9aIW17QC8-v1o8V8TskKwHFL0BVsrpD74ChGjfr8dcMnyuH-Zp-VMor5jpGs3tQUXpstodF~hJNaoS1TepnOng7lFJsnfv076q0jvzTKVY538X-kPjfdyQ7iGhKCKqUzMC-eSPwfO2kPEy-Wz9K7pwB2VUpWZ4FhxTy4oIvjp9LDyOTdcnChd8gPBWXY4UHliH-bmUroJbK88sgsZ1jjaDOPpyCkMiqbmwhW2EBsgKzt7Ln4qvEK022Okln~Gt55mVk53OGNDLMTEMi71nNx6fAN3c-xhFZx4dLzNMfY8OOEMm7zTAIsEYq0cqOeZ1evtcHRAzC0wcsCgV17cA__"
