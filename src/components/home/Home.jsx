@@ -6,7 +6,7 @@ export default function Home() {
   return (
     <div className="md:w-[70%] lg:flex  m-auto mt-10">
       <div className="flex flex-col lg:w-[70%]">
-        <ul className="flex mb-6 mt-2 md:w-[100%] w-[90%] justify-center sm:justify-start">
+        <ul className="flex mb-6 mt-2 md:w-[100%] w-[100%] justify-center sm:justify-start">
           <li className="mx-2 cursor-pointer h-10 font-semibold border-b-2">
             All Posts(32)
           </li>
